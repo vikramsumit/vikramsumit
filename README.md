@@ -31,6 +31,23 @@
 
 ---
 
+## 🌐 Web Development — [`web_dev`](https://github.com/vikramsumit/web_dev)
+
+> 232+ commits across 3 seasons — from raw HTML to full-stack TypeScript apps
+
+| Area | Topics Covered |
+|------|---------------|
+| 🎨 **Frontend Basics** | HTML5, CSS3 — Flexbox, Grid, animations, responsive design |
+| ⚡ **JavaScript** | DOM manipulation, ES6+, async/await, fetch API |
+| ⚛️ **Frontend Frameworks** | React.js, Next.js, Vite — components, hooks, routing |
+| 🎯 **Styling** | Tailwind CSS, Bootstrap — utility-first & component design |
+| 🔷 **TypeScript** | Type-safe code, interfaces, generics in real projects |
+| 🔌 **Backend** | Node.js, Express.js — REST APIs, middleware, routing |
+| 🍃 **Database** | MongoDB, PostgreSQL — CRUD, schemas, queries |
+| 🧩 **Templating** | EJS, Pug — server-side rendering, dynamic views |
+
+---
+
 ## 🛠️ Full Tech Stack
 
 ### 🌐 Frontend
