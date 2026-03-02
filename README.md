@@ -41,7 +41,7 @@
 | ⚡ **JavaScript** | DOM manipulation, ES6+, async/await, fetch API |
 | ⚛️ **Frontend Frameworks** | React.js, Next.js, Vite — components, hooks, routing |
 | 🎯 **Styling** | Tailwind CSS, Bootstrap — utility-first & component design |
-| 🔷 **TypeScript** | Type-safe code, interfaces, generics in real projects |
+<!-- | 🔷 **TypeScript** | Type-safe code, interfaces, generics in real projects | -->
 | 🔌 **Backend** | Node.js, Express.js — REST APIs, middleware, routing |
 | 🍃 **Database** | MongoDB, PostgreSQL — CRUD, schemas, queries |
 | 🧩 **Templating** | EJS, Pug — server-side rendering, dynamic views |
