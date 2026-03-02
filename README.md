@@ -8,8 +8,8 @@
 
 <br/>
 
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=vikramsumit&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/vikramsumit)
-[![Followers](https://img.shields.io/github/followers/vikramsumit?style=flat-square&color=0e75b6&label=Followers)](https://github.com/vikramsumit?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=vikramsumit&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/vikramsumit)
+<!-- [![Followers](https://img.shields.io/github/followers/vikramsumit?style=flat-square&color=0e75b6&label=Followers)](https://github.com/vikramsumit?tab=followers)
 [![Stars](https://img.shields.io/github/stars/vikramsumit?style=flat-square&color=f59e0b)](https://github.com/vikramsumit) -->
 
 </div>
