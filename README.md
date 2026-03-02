@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vikram%20Sumit&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Learner%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sumit%20Vikram&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Learner%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=17&descAlignY=58" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+full-stack+MERN+apps+%F0%9F%9A%80;Exploring+Data+Science+%26+Machine+Learning+%F0%9F%A7%A0;DSA+in+Java+%26+Python+%E2%98%95;TypeScript+projects+in+production+%E2%9A%A1;Always+shipping.+Always+learning.+%F0%9F%93%9A" alt="Typing SVG"/>
