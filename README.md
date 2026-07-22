@@ -76,7 +76,7 @@
 
 **🌿 Plant Disease Detection System** — Two-stage TensorFlow/Keras pipeline (9 plants) trained on ~150K images, ~97.7% confidence, served via an Express.js API with a React + Vite frontend. 🏆 Finalist — CICPS Hackathon (Jadavpur University, Calcutta University & GCECT).
 
-**📝 OEMS — Online Examination Management System** — MERN-stack exam platform with a GitLab CI/CD pipeline; in progress: multi-select & numerical-answer question types and AI-assisted handwritten answer checking.
+**📝 Online Examination Management System** — MERN-stack exam platform with a GitLab CI/CD pipeline; in progress: multi-select & numerical-answer question types and AI-assisted handwritten answer checking.
 
 **🏙️ 2D Digital Twin for Smart City Operations** *(Final Year Project)* — Traffic simulation with SUMO and evacuation routing with Mesa agent-based modeling.
 
