@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sumit%20Vikram&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Learner%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=17&descAlignY=58" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+full-stack+MERN+apps+%F0%9F%9A%80;Exploring+Data+Science+%26+Machine+Learning+%F0%9F%A7%A0;DSA+in+Java+%26+Python+%E2%98%95;TypeScript+projects+in+production+%E2%9A%A1;Always+shipping.+Always+learning.+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+full-stack+MERN+apps+%F0%9F%9A%80;Exploring+Data+Science+%26+Machine+Learning+%F0%9F%A7%A0;DSA+in+Java+%E2%98%95;Always+shipping.+Always+learning.+%F0%9F%93%9A" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vikramsumit&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/vikramsumit)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-D32F2F?style=for-the-badge)](./my_resume.pdf)
 <!-- [![Followers](https://img.shields.io/github/followers/vikramsumit?style=flat-square&color=0e75b6&label=Followers)](https://github.com/vikramsumit?tab=followers)
 [![Stars](https://img.shields.io/github/stars/vikramsumit?style=flat-square&color=f59e0b)](https://github.com/vikramsumit) -->
 
@@ -16,7 +17,26 @@
 
 ---
 
-## 📊 Data Science — [`ds`](https://github.com/vikramsumit/ds)
+## 🧮 DSA & Competitive Programming — [`java_codes`](https://github.com/vikramsumit/java_codes)
+
+> 300+ problems solved across LeetCode, GeeksforGeeks & HackerRank — practice code and learnings tracked here
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumitvikram/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sumitvikram)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sumitvikram?utm=codolio)
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge)](https://codolio.com/profile/sumitvikram)
+
+</div>
+
+<p align="center"><sub>Codolio aggregates stats across platforms — it's not a coding judge itself.</sub></p>
+
+---
+
+---
+
+## 📊 Data Science — [`Data_Science & ML`](https://github.com/vikramsumit/Data_Science__ML)
 
 > Hands-on Jupyter Notebooks covering the full Data Science & ML pipeline
 
@@ -48,6 +68,20 @@
 
 ---
 
+## 🚀 Featured Projects
+
+**🏥 AI Hospital Receptionist Agent** — n8n-powered AI agent workflow automating patient triage, disease classification, doctor allocation & ward recommendations.
+
+**📊 Retail Analytics for Store Optimization** — Analyzed 421K+ sales records across 45 stores; engineered 15+ features and compared 6 ML models (Random Forest, Gradient Boosting, Ridge/Lasso), reaching 95%+ R² on a deployed model.
+
+**🌿 Plant Disease Detection System** — Two-stage TensorFlow/Keras pipeline (9 plants) trained on ~150K images, ~97.7% confidence, served via an Express.js API with a React + Vite frontend. 🏆 Finalist — CICPS Hackathon (Jadavpur University, Calcutta University & GCECT).
+
+**📝 OEMS — Online Examination Management System** — MERN-stack exam platform with a GitLab CI/CD pipeline; in progress: multi-select & numerical-answer question types and AI-assisted handwritten answer checking.
+
+**🏙️ 2D Digital Twin for Smart City Operations** *(Final Year Project)* — Traffic simulation with SUMO and evacuation routing with Mesa agent-based modeling.
+
+---
+
 ## 🛠️ Full Tech Stack
 
 ### 🌐 Frontend
@@ -69,12 +103,10 @@
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -85,10 +117,15 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+
+### 🧠 Generative & Agentic AI
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logoColor=white)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-6A5ACD?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4560?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -106,6 +143,7 @@
 |------|---------|
 | ⚡ **Advanced Next.js** | App Router, Server Components, Streaming, Edge Runtime |
 | 🧠 **Machine Learning** | Building real models with Scikit-learn, PyTorch & TensorFlow |
+| 🤖 **Agentic AI** | Building AI agent workflows with n8n, prompt engineering & LLM automation pipelines |
 | 🏗️ **System Design** | Scalable backend structure, Prisma + PostgreSQL |
 | 🔐 **Cybersecurity** | Deepening secure coding practices and app hardening |
 | 🚀 **Deployment** | Linux, CI/CD, full deployment pipelines with Git/GitHub |
@@ -114,12 +152,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vikramsumit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2e8f0&icon_color=7c3aed&count_private=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2e8f0&langs_count=8"/>
 
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=vikramsumit&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideNums=e2e8f0&sideLabels=64748b&dates=64748b" width="60%" alt="GitHub Streak"/>
@@ -139,6 +177,7 @@
 
 [![Email](https://img.shields.io/badge/Email-vikramsumit%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vikramsumit@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%40vikramsumit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramsumit)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./my_resume.pdf)
 
 </div>
 
