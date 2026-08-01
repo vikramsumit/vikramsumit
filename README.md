@@ -175,7 +175,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-vikramsumit%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vikramsumit@outlook.com)
+[![Email](https://img.shields.io/badge/Email-sumitvikram22182018%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sumitvikram22182018@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%40vikramsumit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramsumit)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./my_resume.pdf)
 
