@@ -19,12 +19,13 @@
 
 ## 🧮 DSA & Competitive Programming — [`java_codes`](https://github.com/vikramsumit/java_codes)
 
-> 350+ problems solved across LeetCode, GeeksforGeeks & HackerRank — practice code and learnings tracked here
+> 400+ problems solved across LeetCode, GeeksforGeeks & HackerRank — practice code and learnings tracked here
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumitvikram/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sumitvikram)
+[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sumitvikram)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sumitvikram?utm=codolio)
 [![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge)](https://codolio.com/profile/sumitvikram)
 
