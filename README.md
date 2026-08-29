@@ -19,7 +19,7 @@
 
 ## 🧮 DSA & Competitive Programming — [`java_codes`](https://github.com/vikramsumit/java_codes)
 
-> 400+ problems solved across LeetCode, GeeksforGeeks & HackerRank — practice code and learnings tracked here
+> 400+ problems solved across LeetCode, GeeksforGeeks, CodeChef & HackerRank — practice code and learnings tracked here
 
 <div align="center">
 
